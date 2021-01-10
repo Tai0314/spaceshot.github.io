@@ -1,0 +1,35 @@
+h1 {
+  color: blue;
+  font-family: italic;
+}
+#items-needed {
+  color: black;
+}
+.highlighted-text {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+p {
+  color: black;
+  font-style: Aerial;
+}
+.itlalic-text {
+  font-variant: italic;
+}
+#container {
+  display: grid;
+  grid-template-rows: 200px 200px;
+  grid-template-columns: 200px 200px;
+}
+
+.centered {
+  display: block;
+  margin: auto;
+}
+
+.items {
+  border-style: solid;
+  margin: 15px;
+  padding: 10px;
+}
